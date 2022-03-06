@@ -71,4 +71,4 @@ def summaraize(text):
 
 
 if __name__ == '__main__':
-    app.run(port=3333)
+    app.run(host='172.25.11.60', port=3333)

@@ -1,5 +1,0 @@
-fastapi
-spacy
-uvicorn
-warnings
-
