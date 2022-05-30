@@ -1,0 +1,7 @@
+pip install spacy
+python -m spacy download en
+
+
+
+pip install transformers==2.8.0
+pip install torch==1.4.0
